@@ -24,3 +24,9 @@ Malay - Output
 ![Malay](https://user-images.githubusercontent.com/44885554/114172776-b4914580-9968-11eb-8ecc-c1ca800f45ae.jpg)
 
 </div>
+
+## Usage
+
+1. Install Korean & Arabic [Saudi Arabia] font in your Windows.
+2. Change text editor in Eclipse to UTF-8
+3. Enjoy the program!
